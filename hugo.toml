@@ -7,8 +7,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Your site description"
-  copyright = "Copyright © 2020 Your Name"
+  description = "A summary of Catherine Cusick's tax credentials."
+  copyright = "Copyright © 2023 Catherine Cusick"
   dark = "auto"
   highlight = true
 
