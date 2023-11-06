@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "Cusick Tax Creds"
+title = "Catherine Cusick:"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -15,17 +15,31 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
+    name = "intro"
     title = "posts"
-    url = "/"
+    url = "/posts/"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
+    identifier = "credentials"
+    name = "credentials"
+    title = "credentials"
+    url = "/credentials/"
     weight = 20
+
+  [[menu.main]]
+    identifier = "credits"
+    name = "credits"
+    title = "credits"
+    url = "/credits/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "tech"
+    name = "tech"
+    title = "tech"
+    url = "/tech/"
+    weight = 40
 
 [permalinks]
   posts = "/:title/"
