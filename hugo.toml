@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "intro"
+    name = "posts"
     title = "posts"
     url = "/posts/"
     weight = 10
