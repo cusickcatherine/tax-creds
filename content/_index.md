@@ -3,7 +3,7 @@ title: "Home"
 ---
 Welcome! If your firm is looking for an extra set of hands for the 2024 tax season, I've put this portfolio together to share how I might be able to help.
 
-I am an EA candidate based in Austin, Texas. I'm transitioning into tax prep after a decade in digital audience development. (My literary career has been extremely rewarding! I just keep prioritizing financial literacy, so I'm leaning into that interest.)
+I am an EA candidate based in Austin, Texas. I'm transitioning into tax prep after a decade in digital audience development. (My [literary career](https://drive.google.com/file/d/1WoHW8yeT_w5llyg5-xaJcS3Xd8vY-gEL/view?usp=sharing) has been extremely rewarding! I just keep prioritizing financial literacy, so I'm leaning into that interest.)
 
 I'm currently looking for part-time opportunities to gain hands-on experience preparing tax returns. That said, if any of my marketing or tech skills pop out at you and make you think, "Well hey, we actually need some help with this other thing, too," lay it on me! I'm always game to address existing needs.
 
