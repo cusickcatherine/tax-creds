@@ -1,6 +1,6 @@
 +++
 title = 'Credentials'
-date = 2023-11-06T15:59:04-06:00
+date = 2023-09-25T15:59:04-06:00
 draft = false
 +++
 
