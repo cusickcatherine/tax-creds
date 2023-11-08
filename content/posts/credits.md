@@ -8,10 +8,11 @@ I'm working on earning my first [Annual Filing Season Program](https://www.irs.g
 
 ### CE Credits
 
+* Navigating Entity Selection for Small Businesses
 * Defending Reasonable Compensation in Litigation and Examination
 * Unlock IRS Records: 95% Success With Forms 8821 & 2848 Mastery
 * End CP2000 Notices: Understand & Avoid Automated Underreporter (AUR) Audits
-* Common IRS Penalties and Defenses: What You Need to Know Now
+* Common IRS Penalties and Defenses
 
 ### CPE
 
