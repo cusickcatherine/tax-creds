@@ -4,7 +4,7 @@ date = 2023-11-06T15:58:04-06:00
 draft = false
 +++
 
-I will complete [VITA Training](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers) here in Austin through [Foundation Communities](https://foundcom.org/volunteer-with-tax-help-program/) in December 2024. 
+I will complete [VITA Training](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers) here in Austin through [Foundation Communities](https://foundcom.org/volunteer-with-tax-help-program/) in December 2023. 
 
 I'm working on earning my first [Annual Filing Season Program](https://www.irs.gov/tax-professionals/general-requirements-for-the-annual-filing-season-program-record-of-completion) Record of Completion. I'm [exempt](https://www.irs.gov/pub/irs-pdf/p5646.pdf) from the [AFTR course and test](https://www.irs.gov/tax-professionals/frequently-asked-questions-annual-filing-season-program#annual) until the 2026 filing season, but plan to complete the remaining requirements by December 31.
 
