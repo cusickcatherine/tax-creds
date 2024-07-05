@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "A summary of Catherine Cusick's tax credentials."
-  copyright = "Copyright © 2023 Catherine Cusick"
+  copyright = "Copyright © 2024 Catherine Cusick"
   dark = "auto"
   highlight = true
 
