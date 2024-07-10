@@ -17,3 +17,8 @@ Passed [SEE3: Representation](https://scorereports.prometric.com/T2HDTP6GSSDQD3J
 ### Annual Filing Season Program
 
 Active Year 2024. [View Record of Completion](https://drive.google.com/file/d/1it1B5Exvn8Mew-vkddPjm09tVaWgoYnC/view?usp=share_link)
+
+
+### Professional Association Membership
+
+National Association of Enrolled Agents (NAEA)
